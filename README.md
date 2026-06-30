@@ -1,51 +1,214 @@
-## Hi there 👋
+<!-- ============================== -->
+<!--        HEADER BANNER          -->
+<!-- ============================== -->
 
-<# 👋 Hi, I'm Mebratu
+<h1 align="center">
+Hi 👋, I'm Mebratu
+</h1>
 
-I am a passionate **Full-Stack Developer** focused on building innovative Web and Mobile applications. I love creating efficient software solutions and sharing technology insights with the developer community!
+<h3 align="center">
+🚀 Full Stack Developer | Mobile Developer | AI Enthusiast | Information Systems Student
+</h3>
 
----
+<p align="center">
+Building innovative software that solves real-world problems.
+</p>
 
-### 🚀 About Me
-- 🎓 Graduate in **Information Systems**
-- 📱 Mobile App Developer specializing in **React Native** and **Flutter**
-- 💻 Web Application Developer utilizing the **MERN Stack** (MongoDB, Express, React, Node.js)
-- 🎥 Content Creator managing **[3M TEC](https://www.youtube.com/channel/UCQYgaEW3jWnHzIUQ-CKRJ0Q)**, a tech-focused YouTube channel
+<p align="center">
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;React+Native+Developer;MERN+Stack+Developer;AI+Application+Builder;Open+Source+Contributor;Technology+Content+Creator"/>
 
-### 🛠 Tech Stack
-
-| Domain | Tools & Technologies |
-| :--- | :--- |
-|**Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
+</p>
 
 ---
 
-### 📊 GitHub Stats
+<p align="center">
 
-![Mebratu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=dark)
+<img src="https://komarev.com/ghpvc/?username=3mtec-code&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/3mtec-code?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/3mtec-code?style=for-the-badge">
+
+</p>
 
 ---
 
-### 📬 Connect with me
-- 🎥 YouTube: [3M TEC](https://www.youtube.com/channel/UCQYgaEW3jWnHzIUQ-CKRJ0Q)
-- 📧 Email: muhabawmebratu15@gmail.com!--
-**3mtec-code/3mtec-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💫 About Me
 
-Here are some ideas to get you started:
+<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M2ZWl0cWw2Ym84ZzM3bWlkNG90d2hyN2M4dmRjZ2FqMWY4NHpnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
 
-- 🔭 I’m currently working on ... SmartCare AI
-- 🌱 I’m currently learning ... Advanced AI agent orchestration and prompt engineering
-- 👯 I’m looking to collaborate on ... Open-source MERN stack and mobile application development projects
-- 🤔 I’m looking for help with ... Integrating local digital payment gateways and Amharic TTS APIs
-- 💬 Ask me about ... React Native, Flutter, MERN Stack, and technical video creation for 3M tec
-- 📫 How to reach me: ... muhabawmebratu15@gmail.com
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... I manage a technology-focused YouTube channel called 3M TEC!
--->
+🎓 Information Systems Student
+
+💻 Full Stack Developer
+
+📱 Flutter & React Native Developer
+
+🤖 AI Application Builder
+
+🌐 MERN Stack Developer
+
+🎥 Creator of **3M TEC**
+
+🚀 Currently building
+
+- SmartCare AI
+- AI Agents
+- Healthcare Systems
+- E-Commerce Solutions
+
+🌱 Currently Learning
+
+- AI Agent Orchestration
+- Prompt Engineering
+- LangGraph
+- MCP
+- Cloud Deployment
+
+---
+
+# ⚡ Tech Stack
+
+## Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,dart,java"/>
+
+</p>
+
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+</p>
+
+## Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+
+</p>
+
+## Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,react"/>
+
+</p>
+
+## Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
+
+</p>
+
+## Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
+
+</p>
+
+---
+
+# 🚀 Current Projects
+
+🔥 SmartCare AI
+
+🏥 Hospital Management System
+
+🤖 AI Agents
+
+💳 Chapa Payment Integration
+
+📱 Flutter E-Commerce Platform
+
+🌍 Open Source Projects
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mtec-code&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophy
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=3mtec-code&theme=algolia&no-frame=true&column=7"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3mtec-code&theme=tokyo-night"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/3mtec-code">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://www.youtube.com/channel/UCQYgaEW3jWnHzIUQ-CKRJ0Q">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+</a>
+
+<a href="mailto:muhabawmebratu15@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Quote
+
+> "Code is not just about solving problems; it's about creating possibilities."
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=footer"/>
+
+</p>
