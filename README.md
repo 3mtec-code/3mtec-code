@@ -1,187 +1,156 @@
-<!-- ============================== -->
-<!--        HEADER BANNER          -->
-<!-- ============================== -->
+<!-- ===================== HERO SECTION ===================== -->
 
-<h1 align="center">
-Hi 👋, I'm Mebratu
-</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=MEBRATU%20DEV&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h1 align="center">⚡ Hi, I'm Mebratu</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | Mobile Developer | AI Enthusiast | Information Systems Student
+🚀 Full Stack Developer • 📱 Mobile Engineer • 🤖 AI Builder • 🌍 Tech Creator
 </h3>
 
 <p align="center">
-Building innovative software that solves real-world problems.
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Powered+Applications;Full+Stack+MERN+Engineer;Flutter+%26+React+Native+Developer;Turning+Ideas+Into+Reality;Open+Source+Contributor;Future+Tech+Innovator"/>
 </p>
+
+---
+
+<!-- ===================== BADGES ===================== -->
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Flutter+Developer;React+Native+Developer;MERN+Stack+Developer;AI+Application+Builder;Open+Source+Contributor;Technology+Content+Creator"/>
-
+<img src="https://komarev.com/ghpvc/?username=3mtec-code&label=VISITORS&color=00f7ff&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/3mtec-code?style=for-the-badge&color=blue"/>
+<img src="https://img.shields.io/github/stars/3mtec-code?style=for-the-badge&color=purple"/>
 </p>
 
 ---
 
-<p align="center">
+<!-- ===================== ABOUT ===================== -->
 
-<img src="https://komarev.com/ghpvc/?username=3mtec-code&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+## 🌌 ABOUT ME
 
-<img src="https://img.shields.io/github/followers/3mtec-code?style=for-the-badge">
+<img align="right" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<img src="https://img.shields.io/github/stars/3mtec-code?style=for-the-badge">
+💡 I am a passionate **Software Engineer & AI Enthusiast**
 
-</p>
+🎓 Information Systems Graduate
 
----
+💻 I build:
+- Scalable Web Apps
+- Mobile Applications
+- AI-powered systems
+- Automation tools
 
-# 💫 About Me
-
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3M2ZWl0cWw2Ym84ZzM3bWlkNG90d2hyN2M4dmRjZ2FqMWY4NHpnNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378c04F2fjeZ7vH2/giphy.gif">
-
-🎓 Information Systems Student
-
-💻 Full Stack Developer
-
-📱 Flutter & React Native Developer
-
-🤖 AI Application Builder
-
-🌐 MERN Stack Developer
-
-🎥 Creator of **3M TEC**
-
-🚀 Currently building
-
-- SmartCare AI
-- AI Agents
-- Healthcare Systems
-- E-Commerce Solutions
-
-🌱 Currently Learning
-
-- AI Agent Orchestration
-- Prompt Engineering
-- LangGraph
-- MCP
-- Cloud Deployment
+🎥 Creator of **3M TEC (Tech YouTube Channel)**
 
 ---
 
-# ⚡ Tech Stack
+### ⚡ CURRENT MISSION
+- 🧠 Building SmartCare AI
+- 🤖 AI Agent Systems
+- 🏥 Digital Health Platforms
+- 💳 Payment Integration Systems (Chapa API)
+- 🌐 Scalable MERN Architecture
 
-## Languages
+---
 
+<!-- ===================== TECH STACK ===================== -->
+
+## ⚙️ TECH ARSENAL
+
+### 🧠 Languages
 <p>
-
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,dart,java"/>
-
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,dart,java"/>
 </p>
 
-## Frontend
-
+### 🎨 Frontend
 <p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
 </p>
 
-## Backend
-
+### ⚙️ Backend
 <p>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs"/>
 </p>
 
-## Mobile
-
+### 📱 Mobile
 <p>
-
 <img src="https://skillicons.dev/icons?i=flutter,react"/>
-
 </p>
 
-## Database
-
+### 🗄️ Database
 <p>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase"/>
-
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql"/>
 </p>
 
-## Tools
-
+### ☁️ Tools & DevOps
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,linux"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman,linux"/>
 </p>
 
 ---
 
-# 🚀 Current Projects
+<!-- ===================== PROJECTS ===================== -->
 
-🔥 SmartCare AI
+## 🚀 ACTIVE PROJECTS
 
-🏥 Hospital Management System
-
-🤖 AI Agents
-
-💳 Chapa Payment Integration
-
-📱 Flutter E-Commerce Platform
-
-🌍 Open Source Projects
+🔥 SmartCare AI – AI Healthcare System  
+🤖 AI Agent Builder Platform  
+🏥 Hospital Management System  
+💳 Chapa Payment Gateway Integration  
+📱 Flutter E-Commerce App  
+🌐 Open Source MERN Framework  
 
 ---
 
-# 📈 GitHub Analytics
+<!-- ===================== GITHUB STATS ===================== -->
+
+## 📊 GITHUB ANALYTICS
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mtec-code&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mtec-code&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
 
 <p align="center">
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+## 🏆 ACHIEVEMENTS
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=3mtec-code&theme=algolia&no-frame=true&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=3mtec-code&theme=matrix&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=3mtec-code&theme=tokyo-night"/>
-
----
-
-# 🐍 Contribution Snake
+## 📈 ACTIVITY MATRIX
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=3mtec-code&theme=react-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🌎 Connect With Me
+## 🐍 SNAKE CONTRIBUTION
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+<!-- ===================== CONTACT ===================== -->
+
+## 🌍 CONNECT WITH ME
 
 <p align="center">
 
@@ -190,25 +159,23 @@ Building innovative software that solves real-world problems.
 </a>
 
 <a href="https://www.youtube.com/channel/UCQYgaEW3jWnHzIUQ-CKRJ0Q">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube"/>
+<img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube"/>
 </a>
 
 <a href="mailto:muhabawmebratu15@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-00C7B7?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
-
-> "Code is not just about solving problems; it's about creating possibilities."
-
----
+<!-- ===================== FOOTER ===================== -->
 
 <p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:302b63,100:0f0c29&height=120&section=footer"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7F00FF&height=120&section=footer"/>
-
+<p align="center">
+💡 "Code. Build. Innovate. Repeat."
 </p>
