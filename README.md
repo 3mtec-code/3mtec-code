@@ -6,7 +6,7 @@
 <!-- ANIMATED TYPING EFFECT -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+One+Line+at+a+Time;MERN+Stack+Enthusiast;Mobile+App+Developer;Tech+Content+Creator+%40+3M+TEC;Innovating+with+AI+and+Web+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=850&lines=Building+the+Future+One+Line+at+a+Time;MERN+Stack+Enthusiast;Mobile+App+Developer;Tech+Content+Creator+%40+3M+TEC;Innovating+with+AI+and+Web+Tech" alt="Typing SVG" />
   </a>
 </div>
 
@@ -58,7 +58,7 @@
 ![Next JS](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js&logoColor=white&labelColor=black)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=black)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=black)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white&labelColor=black)
+
 
 
 
@@ -115,29 +115,7 @@
 
 ---
 
-## 💼 Current Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <h3> SmartCare AI</h3>
-        <p>AI-powered healthcare platform<br>with advanced analytics</p>
-        <img src="https://img.shields.io/badge/Status-In_Development-00C9FF?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <h3>3M TEC Mobile</h3>
-        <p>Cross-platform mobile app<br>for tech education</p>
-        <img src="https://img.shields.io/badge/Status-Coming_Soon-00C9FF?style=flat-square" />
-      </td>
-      <td align="center" width="33%">
-        <h3>🌐 Portfolio</h3>
-        <p>Modern portfolio website<br>with interactive elements</p>
-        <img src="https://img.shields.io/badge/Status-Deployed-00C9FF?style=flat-square" />
-      </td>
-    </tr>
-  </table>
-</div>
 
 ---
 
@@ -162,9 +140,6 @@
   
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQYgaEW3jWnHzIUQ-CKRJ0Q)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhabawmebratu15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-
 </div>
 
 ---
@@ -177,13 +152,7 @@
 
 ---
 
-## 🎵 Now Playing
 
-<div align="center">
-  
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your-spotify-id&cover_image=true&theme=default&show_offline=true&bar_color=00C9FF)
-
-</div>
 
 ---
 
