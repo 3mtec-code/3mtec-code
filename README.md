@@ -1,19 +1,19 @@
 <!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=200&section=header&text=Mebratu%20Muhabaw&fontSize=60&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=55&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5B4FE9,100:00C9FF&height=200&section=header&text=Mebratu%20Muhabaw&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=55&descColor=e0e0e0&animation=fadeIn" width="100%"/>
 </div>
 
 <!-- ANIMATED TYPING EFFECT -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&color=00C9FF&center=true&vCenter=true&width=850&lines=Building+the+Future+One+Line+at+a+Time;MERN+Stack+Enthusiast;Mobile+App+Developer;Innovating+with+AI+and+Web+Tech" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=8A6FFF&center=true&vCenter=true&width=850&lines=Building+the+Future+One+Line+at+a+Time;MERN+Stack+Enthusiast;Mobile+App+Developer;Innovating+with+AI+and+Web+Tech" alt="Typing SVG" />
   </a>
 </div>
 
 <!-- STATS BADGES -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=3mtec-code&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/3mtec-code?style=for-the-badge&logo=github&color=00C9FF&label=Followers" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=3mtec-code&style=for-the-badge&color=8A2BE2&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/3mtec-code?style=for-the-badge&logo=github&color=5B4FE9&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/github/stars/3mtec-code?style=for-the-badge&logo=github&color=00C9FF&label=Stars" alt="Stars" />
 </div>
 
@@ -48,7 +48,7 @@
         </p>
         <br>
         <blockquote>
-          "Code is poetry, and I'm writing an epic story with technology."
+          "I don't just write code — I build tools people actually use, then teach others how it works."
         </blockquote>
       </td>
       <td width="50%">
@@ -102,27 +102,20 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=3mtec-code&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/3mtec-code/REPLACE_WITH_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=3mtec-code&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/3mtec-code/REPLACE_WITH_REPO_2)
-
-</div>
-
-> 💡 Replace `REPLACE_WITH_REPO_1` / `REPLACE_WITH_REPO_2` above with your actual repo names — pinned-repo cards are one of the biggest drivers of profile engagement.
+> 📌 **Note:** Instead of hardcoding project cards here (which break if a repo is renamed), pin your best repos directly from your GitHub profile: go to your profile → **Customize your pins** → select up to 6 repos. They will automatically display below your profile header on GitHub with live stars/forks — no README editing needed, and they never go stale.
 
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF&icon_color=00C9FF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mtec-code&theme=tokyonight&hide_border=true&background=0d1117&stroke=00C9FF&ring=00C9FF&fire=00C9FF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=3mtec-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A6FFF&icon_color=8A6FFF" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=3mtec-code&theme=tokyonight&hide_border=true&background=0d1117&stroke=8A6FFF&ring=8A6FFF&fire=00C9FF" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00C9FF" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=3mtec-code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00C9FF&line=00C9FF&point=FFFFFF" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3mtec-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8A6FFF" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=3mtec-code&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8A6FFF&line=00C9FF&point=FFFFFF" />
 </div>
 
 ---
@@ -130,22 +123,7 @@
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=3mtec-code&theme=onestar&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
-</div>
-
----
-
-## 📝 Latest Blog Posts
-
-<div align="center">
-
-<!-- BLOG-POST-LIST:START -->
-🔹 **Building Scalable MERN Applications** — *Best practices and architecture patterns*
-🔹 **React Native vs Flutter 2026** — *Which framework should you choose?*
-🔹 **Getting Started with AI in Web Development** — *A beginner's guide*
-🔹 **Optimizing Mobile App Performance** — *Tips and tricks*
-<!-- BLOG-POST-LIST:END -->
-
+  <img src="https://github-profile-trophy.vercel.app/?username=3mtec-code&theme=algolia&no-frame=true&row=2&column=4&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -170,7 +148,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:5B4FE9,100:00C9FF&height=100&section=footer" width="100%"/>
 
   ### 💙 Thanks for visiting! Let's build something amazing together!
 
